@@ -1,0 +1,6 @@
+#!/usr/bin/env ruby
+
+require 'thor'
+require 'bundle_dev'
+
+BundleDev::CLI.start
